@@ -13,8 +13,8 @@ POST http://localhost:6000/api/users HTTP/1.1
 Content-Type: application/json
 
 {
-  "name": "name",
-  "bio": "bio"
+  "name": "Brandon",
+  "bio": "Bio"
 }
 
 ###
